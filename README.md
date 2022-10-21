@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ACE2000654
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning c++, data structure
-- 💞️ I’m looking to collaborate on deep learning
+- 💞️ I’m looking to collaborate on deep learning or software engineering
 - 📫 How to reach me huqingyuan314@gmail.com
 
 <!---
