@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ACE2000000
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning data structure and algorithms in Java
+- 🌱 I’m currently learning data structure and algorithms in Java, shell programming
 - 💞️ I’m looking to collaborate on software develop engineer
 - 📫 How to reach me: huqingyuan314@gmail.com
 
